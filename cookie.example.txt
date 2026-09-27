@@ -1,0 +1,5 @@
+# 这是 cookie 格式示例，不是真实数据。把它替换成你自己的抖音 cookie 即可。
+# 获取方式：浏览器登录抖音后，F12 -> Application -> Cookies -> douyin.com，
+# 或用 Cookie-Editor 扩展一键导出。整段贴到下面这行（name=value; 分号分隔）：
+
+sessionid=这里填你的32位十六进制sessionid; sid_tt=和sessionid相同的值; ttwid=1%7Cxxxxxxxxxxxxxxxxxxxx; odin_tt=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx; uid_tt=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx; passport_csrf_token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx; IsDouyinActive=true
